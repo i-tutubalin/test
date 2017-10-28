@@ -1,0 +1,5 @@
+start("mainRecord");
+record: string;
+nameRecord: string;
+read(nameRecord);
+read(record);
