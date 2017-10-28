@@ -1,0 +1,5 @@
+start(mainTask);
+task: string;
+nameTask: string;
+read(nameTask);
+read(task);
