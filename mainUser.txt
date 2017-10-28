@@ -1,0 +1,7 @@
+start("mainUser");
+name: String;
+login: String;
+pas: String;
+read(name);
+read(login);
+read(pas);
