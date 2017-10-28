@@ -2,4 +2,6 @@ start("mainMenu");
 menu:
 begin
    mainTask();
+   mainRecord();
+   mainUser();
 end;
