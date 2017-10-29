@@ -1,0 +1,6 @@
+start("mainOption");
+font: typeFont;
+style: typeStyle;
+font:= standart;
+style:=standart;
+read(font);

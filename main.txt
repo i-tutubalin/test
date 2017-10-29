@@ -1,5 +1,7 @@
 start("main");
 mainMenu.Show;
-main.style:=standart;
-main.font:=standart;
-main.close;
+<<<<<<< HEAD
+main.style := mainOption.style;
+main.fond:= maiOption.fond;
+main.Close;
+
