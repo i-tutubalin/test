@@ -1,2 +1,5 @@
 start("main");
 mainMenu.Show;
+main.style:=standart;
+main.font:=standart;
+main.close;
