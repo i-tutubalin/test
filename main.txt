@@ -1,2 +1,5 @@
 start("main");
 mainMenu.Show;
+main.style := mainOption.style;
+main.fond:= maiOption.fond;
+main.Close;
